@@ -24,7 +24,7 @@ A continuación, se describen los archivos y carpetas incluidos en este reposito
    - `acceso.guard.ts y rol.guard.ts`: Estos guards se utiliza para proteger rutas que requieren autenticación. Verifica si el usuario tiene acceso antes de permitir el acceso a la ruta.
 
 6. **Módulo Completo de Mantenimiento:**
-   - `formulas`: Esta campeta contiene componentes, relacionados con el módulo de formulas de la aplicación.
+   - `formulas`: Estos archivos contiene los componentes, relacionados con el módulo de formulas de la aplicación.
 
 ## Contacto
 
